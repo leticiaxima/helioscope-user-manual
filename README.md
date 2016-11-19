@@ -10,7 +10,7 @@
 
 Email: support@folsomlabs.com
 
-Web: www.helioscope.com
+Web: [www.helioscope.com](https://www.helioscope.com)
 
 **Trademarks**
 
@@ -38,27 +38,27 @@ Web: www.helioscope.com
 
 **Contents**
 
-1.0Glossary and Requirements 4
+1.0 Glossary and Requirements 4
 
-2.0Quick-Start Guide 5
+2.0 Quick-Start Guide 5
 
-3.0Project 8
+3.0 Project 8
 
-3.1Project List 8
+3.1 Project List 8
 
-3.2Create Project 9
+3.2 Create Project 9
 
-4.0Design 10
+4.0 Design 10
 
-4.1Mechanical Layout 11
+4.1 Mechanical Layout 11
 
-4.2Electrical Design 17
+4.2 Electrical Design 17
 
-4.3Managing Multiple Field Segments and Wiring Zones 21
+4.3 Managing Multiple Field Segments and Wiring Zones 21
 
-4.4Keepouts and Shade Objects 22
+4.4 Keepouts and Shade Objects 22
 
-4.5Shade Optimization 23
+4.5 Shade Optimization 23
 
 Overlays 24
 
