@@ -1,8 +1,8 @@
 # Helioscope user manual {#helioscope-user-manual}
 
-**![C:\Users\pgrana\Dropbox\Folsom Labs\Development\Logo\renders\logo-linkedin-large.png](export/assets/cuserspgranadropboxfolsom_labs.png)**
+****
 
-**![../../../Corporate%20(public)/Branding/Logo/Helioscope%20Transparent%207.02%20copy.png](export/assets/corporate20publicbrand.png)**
+****
 
 **User Manual**
 
@@ -18,7 +18,7 @@ The Folsom Labs and HelioScope logos are trademarks of Folsom Labs, Inc. Other t
 
 **Notice of Copyright**
 
-HelioScope User Manual © 2016\. All rights reserved.
+HelioScope User Manual © 2016. All rights reserved.
 
 **Disclaimer**
 
@@ -30,60 +30,9 @@ August 2016
 
 **Contact Information**
 
-Telephone: (415) 729-4050
+Telephone: \(415\) 729-4050
 
 Email: support@folsomlabs.com
 
-Web: www.helioscope.com
+Web: [www.helioscope.com](https://www.helioscope.com)
 
-**Contents**
-
-1.0 Glossary and Requirements 4
-
-2.0 Quick-Start Guide 5
-
-3.0 Project 8
-
-3.1 Project List 8
-
-3.2 Create Project 9
-
-4.0 Design 10
-
-4.1 Mechanical Layout 11
-
-4.2 Electrical Design 17
-
-4.3 Managing Multiple Field Segments and Wiring Zones 21
-
-4.4 Keepouts and Shade Objects 22
-
-4.5 Shade Optimization 23
-
-Overlays 24
-
-4.6Design Outputs 25
-
-5.0Condition Set 26
-
-6.0Reports 29
-
-6.1Production Report 30
-
-7.0Project Sharing 33
-
-8.0Libraries 34
-
-8.1Module and Inverter Libraries 34
-
-8.2Wiring Library 35
-
-8.3Meteo Library 35
-
-8.4Component Detail 36
-
-8.5PAN File Uploader 37
-
-8.6Characterization Preview &amp; Editing 37
-
-9.0Appendix 38
